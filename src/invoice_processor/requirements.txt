@@ -1,0 +1,15 @@
+mysqlclient==1.4.2.post1
+boto3==1.9.125
+botocore==1.12.125
+Django==2.1.7
+django-filter==2.1.0
+django-storages==1.7.1
+djangorestframework==3.9.2
+django-redis
+django-rest-swagger
+django-cors-headers==2.5.2
+sendgrid==6.0.5
+celery
+channels==2.3.0
+channels-redis==2.4.0
+pymysql
